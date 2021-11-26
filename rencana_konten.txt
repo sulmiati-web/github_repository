@@ -1,13 +1,13 @@
 membuat vlog
 belajar github
 dan masih banyak lagi
-*javasript
-*es6
-.framework javascript
+*framework javascript
+.view
 .react
 struktur data dasar
 php framework
 .laravel
 interview
 vlogs
+python
 
