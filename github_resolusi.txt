@@ -1,0 +1,4 @@
+belajar membuat konten sederhana
+bikin vlog
+belajar laravel
+framework
