@@ -1,3 +1,11 @@
 membuat vlog
 belajar github
 dan masih banyak lagi
+*framework javascript
+.view
+struktur data dasar
+php framework
+.laravel
+interview
+vlogs
+python
