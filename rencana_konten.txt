@@ -3,6 +3,7 @@ belajar github
 dan masih banyak lagi
 *framework javascript
 .view
+.react
 struktur data dasar
 php framework
 .laravel
