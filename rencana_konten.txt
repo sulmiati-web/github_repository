@@ -6,8 +6,10 @@ dan masih banyak lagi
 .react
 struktur data dasar
 php framework
-.laravel
+^laravel
+^Codeigniter
 interview
 vlogs
 python
+blogger
 
